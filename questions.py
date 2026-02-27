@@ -1,7 +1,7 @@
 # questions.py
 # Replace this with your own topic and questions (at least 5)!
 
-TOPIC = "Pokemon Type Matchups"
+TOPIC = "Winter Olympics Figure Skating"
 
 QUESTIONS = [
     {
@@ -29,6 +29,12 @@ QUESTIONS = [
         "answer": "Cross-country skiing",
         "misconception": "Many might assume downhill skiing as it's seen as more prominent"
     },
+    {
+        "question": "Who won the gold medal in men's figure skating at the 2026 Winter Olympics?",
+        "answer": "Mikhail Shaidorov",
+        "misconception": "Students sometimes say Nathan because Nathan Chen won gold in 2022."
+    },
+   
 ]
 
 # Build the system prompt with your questions baked in
