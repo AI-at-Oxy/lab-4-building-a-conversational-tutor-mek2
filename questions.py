@@ -66,5 +66,5 @@ for i, q in enumerate(QUESTIONS, 1):
 
 SYSTEM_PROMPT += """
 
-Remember: these entries are background information. Keep the conversation natural and student‑centered.
+Remember: follow the questions and guide the students toward the answers.
 """
