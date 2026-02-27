@@ -5,14 +5,29 @@ TOPIC = "Pokemon Type Matchups"
 
 QUESTIONS = [
     {
-        "question": "What type is super effective against Fire-type Pokemon?",
-        "answer": "Water",
-        "misconception": "Students sometimes say Ice because fire and ice seem like opposites"
+        "question": "Who was the flag bearer for Team USA during the opening ceremony of the 2022 Winter Olympics?",
+        "answer": "Snowboarder Lindsey Jacobellis",
+        "misconception": "Some might guess a figure skater because they are often high-profile Olympians"
     },
     {
-        "question": "What type is Pikachu?",
-        "answer": "Electric",
-        "misconception": "Students sometimes say Normal because Pikachu looks like a regular animal"
+        "question": "Approximately how many medals did Team USA win at the 2022 Winter Olympics?",
+        "answer": "25 medals",
+        "misconception": "People sometimes overestimate and say around 30 due to media coverage"
+    },
+    {
+        "question": "Which sport helped Team USA secure a memorable gold by Erin Jackson in 2022?",
+        "answer": "Speed skating",
+        "misconception": "A few might think figure skating because it's a popular winter sport"
+    },
+    {
+        "question": "Name one team sport in which the USA competed at the Beijing 2022 Winter Olympics.",
+        "answer": "Ice hockey",
+        "misconception": "Some could say curling, though they also competed there but hockey is more well-known"
+    },
+    {
+        "question": "Which skiing event brought a historic medal for Jessie Diggins in 2022?",
+        "answer": "Cross-country skiing",
+        "misconception": "Many might assume downhill skiing as it's seen as more prominent"
     },
 ]
 

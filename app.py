@@ -7,7 +7,7 @@ app = Flask(__name__)
 app.secret_key = "change-this-to-something-secret"
 
 # Ollama configuration
-MODEL = "ollama/deepseek-r1:8b"
+MODEL = "ollama/gemma3:4b"
 API_BASE = "http://localhost:11434"
 
 
