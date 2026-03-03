@@ -70,30 +70,41 @@ Answer each question below by writing in the space provided. This is a markdown 
 
 ```
 [Your answer here]
+Designing the frames felt like we had more control because the frames would show up exactly how we expected and wished that it would. The system prompt starting asking its own questions and repeating them in a way that we could not control and that was frustrating.
+
 ```
 
 ### 2. Your tutor has hardcoded questions but generates responses dynamically. When is this an advantage over canned feedback? When is it a risk?
 
 ```
 [Your answer here]
+This is an advantage in a sense where the tutor can give real time feedback for mistakes that are made at that given moment so the content might be easier to remember. 
+
 ```
 
 ### 3. What tutoring strategy did you choose, and why? If you could redesign it, what would you change based on testing?
 
 ```
 [Your answer here]
+I'm not sure what tutoring strategy we chose because the questions didn't quite build off of each other. We had questions about the 2026 Winter Olympics but they didn't really relate and lead to the next questions. We would probably choose a different topic where you could apply learned knowledge to the following questions.
+
 ```
 
 ### 4. Skinner insisted on a low error rate and immediate, predictable reinforcement. Your LLM tutor is neither predictable nor error-free. Is that a problem? For whom?
 
 ```
 [Your answer here]
+It probably is a problem since our LLM tutor was heavily flawed and did not make any sense as a tutor. This would especially be a problem for students because non error-free LLMs could teach incorrect information.
+
 ```
 
 ### 5. A school wants to use your tutor with real students. Name three things you'd worry about.
 
 ```
 [Your answer here]
+1. The LLM being incorrect and not error-free
+2. The LLM being to nice to students even when they got answers incorrect.
+3. Something we noticed about my model was that it would go on a tangent and repeat questions in a weird way.
 ```
 
 ## Submission Checklist
